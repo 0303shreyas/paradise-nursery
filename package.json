@@ -1,0 +1,25 @@
+{
+  "name": "paradise-nursery",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://0303shreyas.github.io/paradise-nursery",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.8.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.2.0",
+    "redux": "^5.0.1",
+    "redux-thunk": "^3.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "gh-pages": "^6.1.1",
+    "vite": "^5.4.9"
+  }
+}
