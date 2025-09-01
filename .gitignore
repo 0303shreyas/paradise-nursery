@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+.vite/
+
+# Logs
+*.log
+
+# Optional system files
+.DS_Store
+Thumbs.db
